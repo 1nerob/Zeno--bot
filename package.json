@@ -1,49 +1,53 @@
 {
-	"name": "titan-bot-fb",
-	"version": "1.0.0",
-	"description": "A simple Facebook Messenger Bot made by Team Titan Coders.",
-	"main": "mirai.js",
-	"scripts": {
-		"start": "node index",
-		"login": "node login",
-		"test": "node --trace-warnings --use_strict --async-stack-traces mirai"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/miraipr0ject/miraiv2.git"
-	},
-	"keywords": [
-		"titan-botz"
-	],
-	"author": "Team-TitanSquad",
-	"license": "GPL-3.0",
-	"dependencies": {
-		"axios": "latest",
-		"body-parser": "latest",
-		"caesar-salad": "latest",
-		"canvas": "latest",
-		"chalk": "latest",
-		"cheerio": "latest",
-		"child_process": "latest",
-		"crypto": "latest",
-		"eval": "latest",
-		"extract-zip": "latest",
-		"ws3-fca": "latest",
-		"figlet": "latest",
-		"fs-extra": "latest",
-		"jimp": "latest",
-		"minimist": "latest",
-		"moment-timezone": "latest",
-		"ms": "latest",
-		"npmlog": "latest",
-		"path": "latest",
-		"readline": "latest",
-		"request": "latest",
-		"semver": "latest",
-		"sequelize": "latest",
-		"sqlite3": "latest",
-		"string-similarity": "latest",
-		"totp-generator": "latest",
-		"mongoose": "latest"
-	}
+  "name": "zeno-bot",
+  "version": "1.0.0",
+  "description": "A Facebook Messenger Bot modified by NM Nerob [𝖢𝗋𝖾𝖺𝗍𝗈𝗋 :https://www.facebook.com/nm.nerob.72080]",
+  "main": "mirai.js",
+  "scripts": {
+    "start": "node index",
+    "login": "node login",
+    "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1nerob/Zeno--bot.git"
+  },
+  "keywords": [
+    "zeno-bot",
+    "messenger-bot",
+    "chatbot",
+    "mirai",
+    "NM Nerob"
+  ],
+  "author": "NM Nerob",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "latest",
+    "body-parser": "latest",
+    "caesar-salad": "latest",
+    "canvas": "latest",
+    "chalk": "latest",
+    "cheerio": "latest",
+    "child_process": "latest",
+    "crypto": "latest",
+    "eval": "latest",
+    "extract-zip": "latest",
+    "ws3-fca": "latest",
+    "figlet": "latest",
+    "fs-extra": "latest",
+    "jimp": "latest",
+    "minimist": "latest",
+    "moment-timezone": "latest",
+    "ms": "latest",
+    "npmlog": "latest",
+    "path": "latest",
+    "readline": "latest",
+    "request": "latest",
+    "semver": "latest",
+    "sequelize": "latest",
+    "sqlite3": "latest",
+    "string-similarity": "latest",
+    "totp-generator": "latest",
+    "mongoose": "latest"
+  }
 }
